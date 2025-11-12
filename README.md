@@ -1,4 +1,4 @@
-# 👋 Hola, soy Maxi Sabadini  
+# Maxi Sabadini  
 
 💻 IT Support / Analista Funcional / QA en formación  
 🧠 SQL | Python | Postman | Xray | Jira | Scrum  
