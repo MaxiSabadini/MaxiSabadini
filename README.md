@@ -30,7 +30,7 @@
 📌 **Descripción:**  
 Proyecto de QA Manual aplicado a un sistema de e‑commerce. Incluye análisis funcional, casos de prueba, matriz de trazabilidad, reporte de bugs y pruebas de API con Postman.
 
-📂 **Repositorio:** [E‑Commerce QA Project](https://github.com/MaxiSabadini/Ecommerce-QA-Project)
+📂 **Repositorio:** [E‑Commerce QA Project](https://github.com/MaxiSabadini/qa-ecommerce-project)
 
 🧪 **Incluye:**
 - Plan de pruebas (Test Plan)  
@@ -53,4 +53,4 @@ Proyecto de QA Manual aplicado a un sistema de e‑commerce. Incluye análisis f
 ### 🚀 Sobre mí
 Apasionado por la tecnología, el análisis y la calidad de software.  
 Comprometido con la mejora continua, la documentación clara y el trabajo en equipo.  
-Busco mi primera experiencia formal como **QA Manual / Funcional**, con proyección a Automation.
+
