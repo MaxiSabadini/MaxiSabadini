@@ -29,7 +29,7 @@ Incluye:
 - ✔ Archivo README explicando cómo ejecutar todo
 
 🔗 **Repositorio del proyecto:**  
-👉 [https://github.com/MaxiSabadini/QA-CustomerFlow](https://github.com/MaxiSabadini/qa-ecommerce-project)
+👉 [https://github.com/MaxiSabadini/QA-Ecomerce-project](https://github.com/MaxiSabadini/qa-ecommerce-project)
 
 ---
 
