@@ -15,24 +15,6 @@
 
 ---
 
-## 🧪 Proyecto destacado de QA Manual  
-### **📁 QA-CustomerFlow (Testing de un módulo de Gestión de Clientes)**  
-Un proyecto completo de QA donde validé un flujo típico de alta, edición, consulta y eliminación de clientes.
-
-Incluye:  
-- ✔ Plan de pruebas  
-- ✔ Casos de prueba (test cases)  
-- ✔ Matriz de trazabilidad  
-- ✔ Evidencias  
-- ✔ Reporte de bugs  
-- ✔ Colección de Postman para pruebas de API  
-- ✔ Archivo README explicando cómo ejecutar todo
-
-🔗 **Repositorio del proyecto:**  
-👉 [https://github.com/MaxiSabadini/QA-Ecomerce-project](https://github.com/MaxiSabadini/qa-ecommerce-project)
-
----
-
 ### ⚙️ Tecnologías y herramientas  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -43,6 +25,32 @@ Incluye:
 
 ---
 
-### 📊 Estadísticas de GitHub  
-![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiSabadini&show_icons=true&theme=react)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiSabadini&layout=compact&theme=react)
+### 📁 Proyecto Destacado: **E‑Commerce QA Testing Project**
+
+📌 **Descripción:**  
+Proyecto de QA Manual aplicado a un sistema de e‑commerce. Incluye análisis funcional, casos de prueba, matriz de trazabilidad, reporte de bugs y pruebas de API con Postman.
+
+📂 **Repositorio:** [E‑Commerce QA Project](https://github.com/MaxiSabadini/Ecommerce-QA-Project)
+
+🧪 **Incluye:**
+- Plan de pruebas (Test Plan)  
+- Casos de prueba (Test Cases) en formato Excel y Markdown  
+- Matriz de trazabilidad  
+- Bugs reportados con severidad y prioridad  
+- Colección de Postman exportada  
+- Resultado de pruebas y evidencia (screenshots)  
+
+---
+
+### 📈 Actividad reciente  
+- 🔹 Proyecto de pruebas funcionales en E‑Commerce  
+- 🔹 Pruebas de API con Postman (CRUD, auth, status codes)  
+- 🔹 Practicando SQL para validaciones de backend  
+- 🔹 Aprendiendo fundamentos de automatización (Selenium + Python)
+
+---
+
+### 🚀 Sobre mí
+Apasionado por la tecnología, el análisis y la calidad de software.  
+Comprometido con la mejora continua, la documentación clara y el trabajo en equipo.  
+Busco mi primera experiencia formal como **QA Manual / Funcional**, con proyección a Automation.
