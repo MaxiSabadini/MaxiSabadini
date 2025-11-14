@@ -4,7 +4,7 @@
 🧠 SQL | Python | Postman | Xray | Jira | Scrum  
 📚 Estudiando inglés técnico (nivel intermedio)  
 💬 Discord: maxisabadini  
-📧 [sabadinimaximiliano@gmail.com](mailto:sabadinimaximiliano@gmail.com)  
+📧 sabadinimaximiliano@gmail.com  
 
 ---
 
@@ -12,6 +12,24 @@
 🌎 [LinkedIn](https://www.linkedin.com/in/maxisabadini/)  
 📁 [Certificados](https://github.com/MaxiSabadini/Certificados)  
 📄 [Descargar CV (PDF)](./CV_Sabadini_Maximiliano.pdf)
+
+---
+
+## 🧪 Proyecto destacado de QA Manual  
+### **📁 QA-CustomerFlow (Testing de un módulo de Gestión de Clientes)**  
+Un proyecto completo de QA donde validé un flujo típico de alta, edición, consulta y eliminación de clientes.
+
+Incluye:  
+- ✔ Plan de pruebas  
+- ✔ Casos de prueba (test cases)  
+- ✔ Matriz de trazabilidad  
+- ✔ Evidencias  
+- ✔ Reporte de bugs  
+- ✔ Colección de Postman para pruebas de API  
+- ✔ Archivo README explicando cómo ejecutar todo
+
+🔗 **Repositorio del proyecto:**  
+👉 [https://github.com/MaxiSabadini/QA-CustomerFlow](https://github.com/MaxiSabadini/qa-ecommerce-project)
 
 ---
 
@@ -28,4 +46,3 @@
 ### 📊 Estadísticas de GitHub  
 ![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiSabadini&show_icons=true&theme=react)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiSabadini&layout=compact&theme=react)
-
