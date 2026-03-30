@@ -1,8 +1,7 @@
 # Maxi Sabadini  
 
-💻 IT Support / Analista Funcional / QA en formación  
-🧠 SQL | Python | Postman | Xray | Jira | Scrum  
-📚 Estudiando inglés técnico (nivel intermedio)  
+💻 IT Analyst | Implementación de Sistemas | Soporte de Aplicaciones | QA Testing | SQL | Análisis Funcional 
+🧠 SQL | Python | Postman | Xray | Jira | Scrum   
 💬 Discord: maxisabadini  
 📧 sabadinimaximiliano@gmail.com  
 
